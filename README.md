@@ -7,7 +7,17 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 ### Contents:
 - [Introduction](#introduction)
 - [Objectives](#objectives)
-- [National Temperature Trends](#national-temperature-trends) 
+- [National Temperature Trends](#national-temperature-trends)
+- [National Rainfall Trends](#national-rainfall-trends)
+- [Kerala Temperature Analysis](#kerala-temperature-analysis)
+- [Kerala Rainfall Analysis](#kerala-rainfall-analysis)
+- [Kerala Monsoon Period Analysis](#kerala-monsoon-period-analysis)
+- [Humidity and Dew Point Analysis](#humidity-and-dew-point-analysis)
+- [Atmospheric Pressure Analysis](#atmospheric-pressure-analysis)
+- [Temperature and Rainfall Projections](#temperature-and-rainfall-projections)
+- [Data Preprocessing](#data-preprocessing)
+- [Tools Used](#tools-used)
+- [Conclusion](#conclusion)
 
 ### Objectives
 * To analyze temperature trends and variations across different regions of India.
@@ -100,7 +110,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 *  Seasonal pressure patterns show changes from historical norms.
 *  Region wise atmospheric pressure analysis shows an entirely different curve and that can be analysed with the help of year and region filters.
 
-### Projections
+### Temperature and Rainfall Projections
 ![Temperature and Rainfall Projections](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/8126a35c51e0c7f457abf7adb0f5d9177db4e6ce/projections.png)
 
 #### Key Insights
