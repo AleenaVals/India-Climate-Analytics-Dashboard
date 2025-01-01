@@ -99,7 +99,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 ![Temperature and Rainfall Projections](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/8126a35c51e0c7f457abf7adb0f5d9177db4e6ce/projections.png)
 
 #### Key Insights
-* Temperature projections through 2040 indicate significant changes.
+* Temperature and rainfall projections through 2040 indicate significant changes.
 * A continued warming trend is expected across all regions and critical temperature threshold breaches are projected to become more frequent.
 * Traditional seasonal rainfall patterns are likely to experience shifts with the annual rainfall decreasing and extreme rainfall events increasing.
 
