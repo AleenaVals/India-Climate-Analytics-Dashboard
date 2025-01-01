@@ -18,10 +18,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The critical temperature threshold of 23°C has been breached multiple times after 2000, suggesting increased frequency of heat events.
 * The highest recorded peak temperature reached an average of 23.11°C, creating a significant peak in the temperature trend graph.
 * The geographic map shows how the temperature varies across the country with light blue in the northern regions showing low temperatures, variations of red showing high temperature and yellow along the coastal regions showing moderate temperature. (Kerala has a deep red color since there are more points in Kerala and we needed to do a detailed analysis of the state)
-* Regional temperature comparison reveals distinctive patterns: 
-                     * Northern region consistently shows lowest temperatures throughout the year
-                     * Eastern region maintains relatively lower temperatures due to year-round rainfall
-                     * Southern and Western regions demonstrate highest average temperatures consistently over the years
+* Regional temperature comparison reveals distinctive patterns. Northern region consistently shows lowest temperatures throughout the year while the Eastern region maintains relatively lower temperatures due to year-round rainfall. Southern and Western regions demonstrate highest average temperatures consistently over the years
 * Monthly temperature extremes analysis shows how the summer months( March-June) have the maximum temperature variations over the year. For the winter months, the temperatures can go very negative in the country leading to an increased gap between the maximum nd minimum values.
 * The slicers in the dashboard help in more detailed data filtration based on the requirements.
 
