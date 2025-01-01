@@ -23,7 +23,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The slicers in the dashboard help in more detailed data filtration based on the requirements.
 
 ### National Rainfall Trends
-![National Rainfall Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/87b6727f796849e6a71d7e4bf4605713d4265952/national_temp_trends.png)
+![National Rainfall Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/59365c65d61c65c2946086aaad5aed1e634b3747/national_rainfall_trends.png)
 
 #### Key Insights
 * Annual rainfall data indicates a significant overall declining trend since 1960.
