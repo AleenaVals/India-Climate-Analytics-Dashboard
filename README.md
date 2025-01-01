@@ -11,7 +11,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * To provide future climate projections until 2040.
 
 ### National Temperature Trends
-![National Temperature Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/84710157bffe30b679256ff59a91481b38c0bdc7/national_temp_trends.png)
+![National Temperature Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/032edc2d7532aa9bca69f77d7775d6798831bf00/national_temp_trends.png)
 
 #### Key Insights
 * The national average temperature shows a clear upward trend from 1960-2024, indicating significant warming across the country.
@@ -23,7 +23,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The slicers in the dashboard help in more detailed data filtration based on the requirements.
 
 ### National Rainfall Trends
-![National Rainfall Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/59365c65d61c65c2946086aaad5aed1e634b3747/national_rainfall_trends.png)
+![National Rainfall Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/032edc2d7532aa9bca69f77d7775d6798831bf00/national_rainfall_trends.png)
 
 #### Key Insights
 * Annual rainfall data indicates a significant overall declining trend since 1960.
@@ -35,7 +35,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * Pre-monsoon rainfall shows a declining trend over recent decades while the post monsoon rainfall has become less predictable. There has been a clear shift in traditional seasonal rainfall patterns.
 
 ### Kerala Temperature Analysis
-![Kerala Temperature Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/516a87bbaa16656626d22a1a24f33a9c491ec165/kerala_temp_trends.png)
+![Kerala Temperature Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/032edc2d7532aa9bca69f77d7775d6798831bf00/kerala_temp_analysis.png)
 
 #### Key Insights
 * The state of Kerala has experienced a marked increase in average temperature since 1990, showing a clear warming trend.
