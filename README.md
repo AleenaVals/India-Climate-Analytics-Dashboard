@@ -95,6 +95,28 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 *  Seasonal pressure patterns show changes from historical norms.
 *  Region wise atmospheric pressure analysis shows an entirely different curve and that can be analysed with the help of year and region filters.
 
+### Projections
+![Temperature and Rainfall Projections](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/4bf5434c5806a673d5ca5710fd9f7109c747d8b4/projections.png)
+
+#### Key Insights
+* Temperature projections through 2040 indicate significant changes.
+* A continued warming trend is expected across all regions and critical temperature threshold breaches are projected to become more frequent.
+* Traditional seasonal rainfall patterns are likely to experience shifts with the annual rainfall decreasing and extreme rainfall events increasing.
+
+### Data Preprocessing
+The dataset was checked for quality and consistency of the data. Several calculated columns were created using DAX to handle seasonal variations, including the custom aggregations across regions.
+
+### Tools Used
+* Visualisation Tool : Power BI Desktop
+* Data Visualization Techniques: Line Charts, Geographic Maps, Bar Charts, Combo Charts, Area Charts, Small Multiple Line Charts, Heat Maps, Slicers
+* Dataset: https://open-meteo.com
+
+### Conclusion
+This comprehensive climate analysis dashboard effectively visualizes India's changing weather patterns from 1950 to 2024, with particular emphasis on Kerala's climate variations.The analysis reveals clear evidence of increasing temperatures across regions (especially post-2000), shifting rainfall patterns with more extreme events, and significant climate variations in Kerala, highlighted by the 2018 floods. Dashboards like this can serve as a powerful tool for climate change monitoring, disaster preparedness planning, and policy making, making it valuable for researchers and decision-makers across various sectors.
+
+Have thoughts on enhancing this dashboard? I welcome your feedback and ideas for making it even more insightful.
+[LinkedIn | Aleena Vals](https://www.linkedin.com/in/aleenavals) 
+
 
 
 
