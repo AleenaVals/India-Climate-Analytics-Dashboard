@@ -58,7 +58,19 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * Rainfall is becoming more concentrated in fewer days throughout the year and monsoon rainfall variance has increased substantially in recent years.
 * The flood analysis of Kerala reveals that strong correlations exist between atmospheric pressure patterns and extreme rainfall events.
 * The changing rainfall distribution patterns impact flood frequency and intensity.
-  
+
+### Kerala Monsoon Period Analysis (2017-2019)
+![Kerala 2018 Rainfall Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/c05efa611d71c5f20a796186df08e7fcfd6d0ab0/kerala_floods_2018.png)
+
+#### Key Insights
+* Monthly monsoon patterns across 2017-2019 show significant variations.
+* June: 2018 experienced an extreme rainfall spike while 2017 maintained relatively lower levels
+* July: Rainfall distribution was more uniform across three years, with 2018 showing slightly elevated levels mid-month.
+* August: 2018 witnessed two significant spikes exceeding the critical threshold of 130mm, while other years showed relatively normal patterns.
+* September: Began with an extreme rainfall event in 2018 as compared to other years.
+* The 2018 flood analysis reveals critical patterns. Multiple instances of rainfall exceeding the threshold along with concentrated periods of extreme high-intensity rainfall shows how it aggravated the floods of 2018. The dry periods were very limited between these days as well.
+
+
 
 
 
