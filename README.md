@@ -6,6 +6,8 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 
 ### Contents:
 - [Introduction](#introduction)
+- [Objectives](#objectives)
+- [National Temperature Trends](#national-temperature-trends) 
 
 ### Objectives
 * To analyze temperature trends and variations across different regions of India.
