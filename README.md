@@ -96,7 +96,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 *  Region wise atmospheric pressure analysis shows an entirely different curve and that can be analysed with the help of year and region filters.
 
 ### Projections
-![Temperature and Rainfall Projections](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/4bf5434c5806a673d5ca5710fd9f7109c747d8b4/projections.png)
+![Temperature and Rainfall Projections](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/8126a35c51e0c7f457abf7adb0f5d9177db4e6ce/projections.png)
 
 #### Key Insights
 * Temperature projections through 2040 indicate significant changes.
