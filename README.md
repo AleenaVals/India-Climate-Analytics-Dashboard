@@ -34,5 +34,18 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * Monthly rainfall patterns reveal that approximately 70% of the annual rainfall occurs during the monsoon months.
 * Pre-monsoon rainfall shows a declining trend over recent decades while the post monsoon rainfall has become less predictable. There has been a clear shift in traditional seasonal rainfall patterns.
 
+### Kerala Temperature Analysis
+![Kerala Temperature Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/516a87bbaa16656626d22a1a24f33a9c491ec165/kerala_temp_trends.png)
+
+#### Key Insights
+* The state of Kerala has experienced a marked increase in average temperature since 1990, showing a clear warming trend.
+* Temperature trend analysis shows that the average baseline temperature is being exceeded more frequently in recent years.
+* Temperature spikes have become more common after 2000, indicating increased heat stress.
+* Winter cooling periods have reduced in duration and intensity.
+* Monthly temperature chart shows that April and May consistently record the highest temperatures throughout the year. Summer-like conditions are extending beyond traditional summer months.
+* Comparative analysis of recent years shows significant changes with the year 2019 recording the highest average temperatures in the studied period.
+* The frequency of heat events have increased throughout the year.
+* Monsoon months are showing reduced cooling effects compared to historical patterns.
+
 
 
