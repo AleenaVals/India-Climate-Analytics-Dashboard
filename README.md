@@ -82,6 +82,19 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The matrix showing monthly dew point patterns reveals the highest and lowest values based on the intensty of colors. The darker the color, higher the dew point value.
 * Further filtration can be done by the time hierarchy slicer that filters according to years, quarters, months and days.
 
+### Atmospheric Pressure Analysis
+![Atmospheric Pressure Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/7fe765d1df7a917f507ee67dd16e24c08d6e1956/atm_pressure_analysis.png)
+
+#### Key Insights
+* Atmospheric Pressure shows clear seasonal pattern with highest pressure in winter months.
+* The green shaded area in the area chart shows the typical pressure variation range.
+* Northern region consistently shows highest pressure levels as expected.
+* Southern region demonstrates relatively lower pressure values and the coastal regions have moderate values for high pressure. During monsoon months the pressure converges for all regions.
+* To analyse how the pressure impacted Kerala during floods, a monsoon period analysis line chart was created. And 2018 flood period showed distinctive pressure pattern.
+*  Highest rainfall occurs during low pressure periods,hence the low pressure values in the peak rainfall months.
+*  Seasonal pressure patterns show changes from historical norms.
+*  Region wise atmospheric pressure analysis shows an entirely different curve and that can be analysed with the help of year and region filters.
+
 
 
 
