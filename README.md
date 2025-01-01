@@ -71,7 +71,7 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The 2018 flood analysis reveals critical patterns. Multiple instances of rainfall exceeding the threshold along with concentrated periods of extreme high-intensity rainfall shows how it aggravated the floods of 2018. The dry periods were very limited between these days as well.
 
 ### Humidity and Dew Point Analysis
-![Humidity and Dew Point Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/3a3cb6a6e5f2b18a2a6cfb09baa71ceaae960465/humidity_dewpoint_analysis.png)
+![Humidity and Dew Point Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/ce8827c1b8d834ba9e22968e0218686e4fe8c2e8/humidity_dewpoint_analysis.png)
 
 #### Key Insights
 * Different regions of India show distinct variations in humidity patterns throughout the year.
