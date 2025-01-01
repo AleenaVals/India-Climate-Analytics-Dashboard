@@ -22,5 +22,17 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * Monthly temperature extremes analysis shows how the summer months( March-June) have the maximum temperature variations over the year. For the winter months, the temperatures can go very negative in the country leading to an increased gap between the maximum nd minimum values.
 * The slicers in the dashboard help in more detailed data filtration based on the requirements.
 
+### National Rainfall Trends
+![National Rainfall Trends Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/87b6727f796849e6a71d7e4bf4605713d4265952/national_temp_trends.png)
+
+#### Key Insights
+* Annual rainfall data indicates a significant overall declining trend since 1960.
+* Recent years show increasingly unpredictable distribution of rainfall across seasons with the rainfall events occurring over shorter periods but with higher intensity.
+* The stacked bar chart reveals distinct regional patterns. Eastern region dominates rainfall in pre-monsoon months and Southern region shows significant increase in post-monsoon months. The monsoon months see an even distribution of rainfall all throughout the nation.
+* North-Eastern India receives highest rainfall across all seasons as per the geographic map(The bubble size is directly proportional to the amount of rainfall)
+* Central India is experiencing a concerning decreasing trend in annual rainfall.
+* Monthly rainfall patterns reveal that approximately 70% of the annual rainfall occurs during the monsoon months.
+* Pre-monsoon rainfall shows a declining trend over recent decades while the post monsoon rainfall has become less predictable. There has been a clear shift in traditional seasonal rainfall patterns.
+
 
 
