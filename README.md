@@ -70,6 +70,18 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * September: Began with an extreme rainfall event in 2018 as compared to other years.
 * The 2018 flood analysis reveals critical patterns. Multiple instances of rainfall exceeding the threshold along with concentrated periods of extreme high-intensity rainfall shows how it aggravated the floods of 2018. The dry periods were very limited between these days as well.
 
+### Humidity and Dew Point Analysis
+![Humidity and Dew Point Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/3a3cb6a6e5f2b18a2a6cfb09baa71ceaae960465/humidity_dewpoint_analysis.png)
+
+#### Key Insights
+* Different regions of India show distinct variations in humidity patterns throughout the year.
+* Strong seasonal correlations have been identified between temperature and humidity levels.
+* Temperature peaks during April-May while Dew point peaks during July-September. 
+* Largest gap between temperature and dew point occurs in summer months. Closest convergence happens in monsoon months.
+* The dew point and humidity relationship chart shows that the highest humidity levels are recorded during the monsoon months while the lowest during the winter months.
+* The matrix showing monthly dew point patterns reveals the highest and lowest values based on the intensty of colors. The darker the color, higher the dew point value.
+* Further filtration can be done by the time hierarchy slicer that filters according to years, quarters, months and days.
+
 
 
 
