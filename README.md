@@ -47,5 +47,18 @@ With climate change being a pressing issue, this comprehensive climate analysis 
 * The frequency of heat events have increased throughout the year.
 * Monsoon months are showing reduced cooling effects compared to historical patterns.
 
+### Kerala Rainfall Analysis
+![Kerala Rainfall Analysis Dashboard](https://github.com/AleenaVals/India-Climate-Analytics-Dashboard/blob/763b32d71dd54e1bc82b5da2dd8ddb23e5dc5af2/kerala_rainfall_analysis.png)
+
+#### Key Insights
+* Kerala's rainfall patterns show high variability compared to historical norms.
+* Extreme rainfall events analysis reveals critical patterns with high intensity rainfall events occurring more frequently than in previous decades.The 2018 floods were characterized by unprecedented rainfall intensity.
+* Dry spells between heavy rainfall periods have become more pronounced.
+* Monthly rainfall distribution shows that peak rainfall periods are shifting from their traditional patterns.
+* Rainfall is becoming more concentrated in fewer days throughout the year and monsoon rainfall variance has increased substantially in recent years.
+* The flood analysis of Kerala reveals that strong correlations exist between atmospheric pressure patterns and extreme rainfall events.
+* The changing rainfall distribution patterns impact flood frequency and intensity.
+  
+
 
 
